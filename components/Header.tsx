@@ -12,6 +12,7 @@ const Header = () => {
         {/* <Button>
           <Menu />
         </Button> */}
+        Hello
       </div>
     </div>
   );
